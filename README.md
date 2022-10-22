@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @melioristic
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-melioristic/melioristic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m a PhD student working on time series representation learning for Climate Sciences
+- 👀 I’m interested in multivariate time series representation learning, neural causal models and explainable AI
+- 🌱 I’m currently learning about multivariate time series disentanglement
+- 💞️ I’m looking to collaborate on AI/ML for earth system sciences
+- 📫 How to reach me twitter: @mohitanand, email : mohit(dot)anand(at)ufz(dot)de
