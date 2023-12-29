@@ -1,5 +1,4 @@
 - 👋 Hi, I’m a PhD student working on time series representation learning for Climate Sciences
-- 👀 I’m interested in multivariate time series representation learning, neural causal models and explainable AI
-- 🌱 I’m currently learning about multivariate time series disentanglement
+- 👀 I’m interested in generative deep learning, representation learning and explainable AI
 - 💞️ I’m looking to collaborate on AI/ML for earth system sciences
 - 📫 How to reach me twitter: @mohitanand, email : mohit(dot)anand(at)ufz(dot)de
