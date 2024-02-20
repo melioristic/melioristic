@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a PhD student working on time series representation learning for Climate Sciences
+- 👋 Hi, I’m a PhD student improving climate science understanding using modern machine learning techniques
 - 👀 I’m interested in generative deep learning, representation learning and explainable AI
 - 💞️ I’m looking to collaborate on AI/ML for earth system sciences
 - 📫 How to reach me twitter: @mohitanand, email : mohit(dot)anand(at)ufz(dot)de
